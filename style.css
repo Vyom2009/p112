@@ -1,0 +1,27 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #snappedpic
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_hand ,#result_gesture_hand2  
+{
+  color: black;
+}
+.gesture_hand
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
